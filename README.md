@@ -5,7 +5,7 @@ This is a simple Weather App that fetches real-time weather data using an API.
 ---
 
 ## 🌐 Live Demo
-🔗 https://rishu-raj-dev01.github.io/portfolio/
+🔗 https://rishu-raj-dev01.github.io/weather-app/
 
 ---
 
